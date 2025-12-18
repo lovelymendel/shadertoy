@@ -1,3 +1,3 @@
-# Shader Toy scripts
+# Shadertoy scripts
 
-This project contains Shader Toy scripts for fun.
+This project contains Shadertoy scripts for fun.
