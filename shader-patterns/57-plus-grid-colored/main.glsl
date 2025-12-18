@@ -1,4 +1,4 @@
-// Plus grid
+// Colored plus grid
 
 void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {
@@ -8,7 +8,12 @@ void mainImage( out vec4 fragColor, in vec2 fragCoord )
     float barX = step(0.4, mod(uv.x * 10.0 - 0.2, 1.0)) * step(0.8, mod(uv.y * 10.0, 1.0));
     float barY = step(0.8, mod(uv.x * 10.0, 1.0)) * step(0.4, mod(uv.y * 10.0 - 0.2, 1.0));
     float strength = barX + barY;
+    strength = clamp(strength, 0.0, 1.0);
+
+    vec3 blackColor = vec3(0.0);
+    vec3 uvColor = vec3(uv, 1.0);
+    vec3 mixedColor = mix(blackColor, uvColor, strength);
 
     // Output to screen
-    fragColor = vec4(strength, strength, strength, 1.0);
+    fragColor = vec4(vec3(mixedColor), 1.0);
 }
