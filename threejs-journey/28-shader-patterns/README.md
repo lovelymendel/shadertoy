@@ -1,6 +1,6 @@
 # Shader patterns
 
-This folder contains Shadertoy scripts inspired by Threejs.journey L27 Shader patterns.
+This folder contains Shadertoy scripts inspired by Threejs.journey Lesson 27 Shader Patterns.
 
 ## Test
 
