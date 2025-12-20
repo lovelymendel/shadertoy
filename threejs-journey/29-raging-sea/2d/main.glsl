@@ -1,4 +1,4 @@
-// 2d raging Sea 
+// 2D Raging Sea 
 // — inspired by the lesson Raging Sea in Three.js Journey 
 // - (https://threejs-journey.com by Bruno Simon).
 
