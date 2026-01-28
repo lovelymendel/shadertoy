@@ -1,14 +1,3 @@
 # Shader patterns
 
 This folder contains Shadertoy shaders inspired by Threejs.journey Lesson 27 Shader Patterns.
-
-## Test
-
-To test the script,
-
-1. copy `main.glsl` content from a sub folder
-2. paste the content to [Shadertoy](https://www.shadertoy.com/new)
-3. click ▸ to compile
-4. view the player
-
-Expected result: the player looks like the `canvas.png` in the same sub folder.
