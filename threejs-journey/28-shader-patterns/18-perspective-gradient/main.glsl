@@ -1,4 +1,6 @@
 // Perspective gradient
+//
+// self link: https://www.shadertoy.com/view/3c3BR2
 
 void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {

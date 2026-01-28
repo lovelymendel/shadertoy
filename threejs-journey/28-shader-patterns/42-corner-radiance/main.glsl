@@ -1,4 +1,6 @@
 // Corner radiance
+//
+// self link: https://www.shadertoy.com/view/tccfzj
 
 #define PI 3.1415926535897932384626433832795
 

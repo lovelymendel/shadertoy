@@ -1,4 +1,6 @@
 // Glow star
+//
+// self link: https://www.shadertoy.com/view/wf3BRj
 
 void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {

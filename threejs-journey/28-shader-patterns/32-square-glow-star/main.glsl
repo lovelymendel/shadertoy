@@ -1,4 +1,6 @@
 // Square glow star
+//
+// self link: https://www.shadertoy.com/view/tccBRj
 
 #define PI 3.1415926535897932384626433832795
 

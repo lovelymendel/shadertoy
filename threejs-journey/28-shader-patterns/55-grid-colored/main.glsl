@@ -1,4 +1,6 @@
 // Colored grid
+//
+// self link: https://www.shadertoy.com/view/WcdfRj
 
 void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {

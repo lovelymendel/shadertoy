@@ -1,4 +1,6 @@
 // Underwater pattern based on Classic Perlin 2D Noise 
+//
+// self link: https://www.shadertoy.com/view/wccfz2
 
 vec4 permute(vec4 x)
 {

@@ -1,4 +1,6 @@
 // Gray fold
+//
+// self link: https://www.shadertoy.com/view/3f3Bzj
 
 void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {

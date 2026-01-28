@@ -1,4 +1,6 @@
 // Stepped classic perlin 2D noise
+//
+// self link: https://www.shadertoy.com/view/wf3fz2
 
 vec4 permute(vec4 x)
 {
@@ -51,7 +53,7 @@ void mainImage( out vec4 fragColor, in vec2 fragCoord )
     // Normalized pixel coordinates (from 0 to 1)
     vec2 uv = fragCoord/iResolution.xy;
 
-    float strength = step(0.0, cnoise(uv * 10.0));
+    float strength = cnoise(uv * 10.0);
 
     // Output to screen
     fragColor = vec4(vec3(strength),1.0);

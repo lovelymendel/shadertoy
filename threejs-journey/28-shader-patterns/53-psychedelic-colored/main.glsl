@@ -1,4 +1,6 @@
 // Colored psychedelic pattern
+//
+// self link: https://www.shadertoy.com/view/3ftfRj
 
 void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {

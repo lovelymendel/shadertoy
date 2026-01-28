@@ -1,4 +1,6 @@
 // Colored corner grid
+//
+// self link: https://www.shadertoy.com/view/3fdfRj
 
 void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {

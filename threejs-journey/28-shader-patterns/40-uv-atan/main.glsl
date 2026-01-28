@@ -1,4 +1,6 @@
 // UV atan
+//
+// self link: https://www.shadertoy.com/view/wccBzj
 
 void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {

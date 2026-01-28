@@ -1,4 +1,6 @@
 // Light lens
+//
+// self link: https://www.shadertoy.com/view/tc3BRj
 
 void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {

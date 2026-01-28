@@ -1,4 +1,6 @@
 // Classic perlin 2D noise
+//
+// self link: https://www.shadertoy.com/view/wc3fz2
 
 vec4 permute(vec4 x)
 {

@@ -1,4 +1,6 @@
 // Tilted plane gradient
+//
+// self link: https://www.shadertoy.com/view/tfcBzj
 
 void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {

@@ -1,4 +1,6 @@
 // Grid
+//
+// * self link: https://www.shadertoy.com/view/3ccBRj
 
 void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {

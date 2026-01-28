@@ -1,4 +1,6 @@
 // UV up white down black squeeze
+//
+// * self link: https://www.shadertoy.com/view/tftfzB
 
 void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {

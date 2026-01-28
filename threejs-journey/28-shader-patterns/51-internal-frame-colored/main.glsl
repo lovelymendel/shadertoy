@@ -1,4 +1,6 @@
 // Colored internal frame
+//
+// self link: https://www.shadertoy.com/view/3fdBRj
 
 void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {

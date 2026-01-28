@@ -1,4 +1,6 @@
 // Black ring gradient
+//
+// self link: https://www.shadertoy.com/view/tccfRj
 
 void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {

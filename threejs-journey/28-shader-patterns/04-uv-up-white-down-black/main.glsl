@@ -1,4 +1,6 @@
 // UV up white down black
+//
+// * self link: https://www.shadertoy.com/view/tcdBzB
 
 void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {

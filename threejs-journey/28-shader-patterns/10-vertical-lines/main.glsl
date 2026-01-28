@@ -1,4 +1,6 @@
 // Vertical lines
+//
+// * self link: https://www.shadertoy.com/view/3f3BRj
 
 void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {

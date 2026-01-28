@@ -1,4 +1,6 @@
 // TV noise
+//
+// self link: https://www.shadertoy.com/view/3fcBz2
 
 float random(vec2 st)
 {

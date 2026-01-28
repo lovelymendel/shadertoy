@@ -1,4 +1,6 @@
 // Quadrant gradient
+//
+// self link: https://www.shadertoy.com/view/3ccfzj
 
 void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {

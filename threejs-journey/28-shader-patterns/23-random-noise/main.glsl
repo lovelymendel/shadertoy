@@ -1,4 +1,6 @@
 // Random noise
+//
+// self link: https://www.shadertoy.com/view/WccBz2
 
 float random(vec2 st)
 {

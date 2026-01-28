@@ -1,4 +1,6 @@
 // Radial gradient
+//
+// self link: https://www.shadertoy.com/view/3ccfz2
 
 void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {

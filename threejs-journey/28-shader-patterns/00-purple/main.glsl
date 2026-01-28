@@ -1,4 +1,6 @@
 // Purple
+//
+// * self link: https://www.shadertoy.com/view/tfdfRB
 
 void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {

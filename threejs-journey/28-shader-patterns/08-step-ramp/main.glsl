@@ -1,4 +1,6 @@
 // Step ramp
+//
+// * self link: https://www.shadertoy.com/view/wfdfzB
 
 void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {

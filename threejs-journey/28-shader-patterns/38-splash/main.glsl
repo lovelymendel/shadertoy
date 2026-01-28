@@ -1,4 +1,6 @@
 // Splash
+//
+// self link: https://www.shadertoy.com/view/tf3Bzj
 
 void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {
