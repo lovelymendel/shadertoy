@@ -1,7 +1,13 @@
-// "dull skull halftone"
-// based on "DULL SKULL" by KΛTUR
-// 2026
-// by lovelymendel 
+// Dull Skull Halftone
+//
+// * self link: https://www.shadertoy.com/view/s3s3WH
+//
+// * inspired by
+//   * Lesson 34 Fireworks in Three.js Journey (https://threejs-journey.com/).
+//
+// * based on "DULL SKULL" by KΛTUR
+// * 2026
+// * by lovelymendel
 
 /* Original work license: CC BY-NC 4.0
  * https://creativecommons.org/licenses/by-nc/4.0/
@@ -451,7 +457,7 @@ void mainImage( out vec4 fragColor, in vec2 fragCoord )
             col,                   // Input color
             100.,                  // Repetitions
             vec3(0.0, - 1.0, 0.0), // Direction
-            -0.8,                 // Low
+            -0.8,                  // Low
             1.5,                   // High
             halftoneShadowColor,   // Point color
             n                      // Normal
